@@ -60,3 +60,11 @@ body {
 	color: #fff;
 	font-size: 2.5rem;
 }
+
+.operand {
+	background-color: orange !important;
+}
+
+.operand:hover{
+	background-color: rgba(253, 225, 110, .9) !important;
+}
